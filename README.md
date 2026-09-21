@@ -87,7 +87,7 @@ Percentage: 66.08%
 
 - ## 📄 Resume
 
-[View My Resume](./Mohammed-Zaheer-Resume.pdf)
+[View My Resume](./Mohammed_Zaheer_Resume.pdf)
 
 ---
 
