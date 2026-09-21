@@ -85,6 +85,10 @@ Percentage: 66.08%
 - One-Day Workshop on Virtual Labs — IIT Delhi Virtual Labs Initiative
 - Student Induction Programme — Bearys Institute of Technology
 
+- ## 📄 Resume
+
+[View My Resume](./Mohammed-Zaheer-Resume.pdf)
+
 ---
 
 ## 🌐 Connect With Me
